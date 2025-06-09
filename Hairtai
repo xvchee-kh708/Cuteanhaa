@@ -1,0 +1,15 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Happy Birthday!</title>
+  <style>
+    body { text-align: center; font-family: sans-serif; background: #ffdfdf; }
+    h1 { color: #ff3399; }
+  </style>
+</head>
+<body>
+  <h1>Happy Birthday, Cuteanhaa! 🎉</h1>
+  <p>Have a beautiful day 💖</p>
+</body>
+</html>
